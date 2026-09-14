@@ -1,0 +1,6 @@
+litellm
+python-dotenv
+duckduckgo-search
+playwright
+beautifulsoup4
+langchain-core
