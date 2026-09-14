@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 
-print("USING SOURCE SELECTOR FILE")
+
 
 load_dotenv("API Key.env")
 LLM_model = os.getenv("model")
