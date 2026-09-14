@@ -1,6 +1,7 @@
 litellm
 python-dotenv
-duckduckgo-search
+ddgs
 playwright
 beautifulsoup4
 langchain-core
+readability-lxml
